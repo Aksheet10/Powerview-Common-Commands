@@ -3,6 +3,7 @@
 ---
 
 `powershell -ep bypass`
+
 `. .\PowerView.ps1`
 
 `Get-NetDomain` - Information about the domain
@@ -25,6 +26,7 @@
 
 
 `Get-DomainUser  -Properties description,pwdlastset,cn`
+
 `Get-NetUser | select cn, description`
 
 ![Pasted image 20210529200230](https://user-images.githubusercontent.com/71016915/120078753-a4772600-c0ce-11eb-9950-9a8dec644ecb.png)
