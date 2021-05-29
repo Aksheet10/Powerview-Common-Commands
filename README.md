@@ -30,7 +30,8 @@
 ![Pasted image 20210529200230](https://user-images.githubusercontent.com/71016915/120078753-a4772600-c0ce-11eb-9950-9a8dec644ecb.png)
 
 
-`Get-NetComputer` 
+`Get-NetComputer`
+
 ![Pasted image 20210529211029](https://user-images.githubusercontent.com/71016915/120078759-a9d47080-c0ce-11eb-96ec-cb62f5c804d6.png)
 
 
