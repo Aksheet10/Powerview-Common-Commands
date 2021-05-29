@@ -1,0 +1,55 @@
+# PowerView
+
+---
+
+`powershell -ep bypass`
+`. .\PowerView.ps1`
+
+`Get-NetDomain` - Information about the domain
+
+![[Pasted image 20210529193905.png]]
+
+
+
+`Get-NetDomainControllers` - Get all the domains
+
+![[Pasted image 20210529194115.png]]
+
+![[Pasted image 20210529194318.png]]
+`Get-DomainPolicy`
+
+`Get-NetUser` / `Get-DomainUser`
+
+![[Pasted image 20210529194934.png]]
+
+`Get-DomainUser  -Properties description,pwdlastset,cn`
+`Get-NetUser | select cn, description`
+
+![[Pasted image 20210529200230.png]]
+
+`Get-NetComputer` 
+![[Pasted image 20210529211029.png]]
+
+`Get-DomainUser "name"`
+
+![[Pasted image 20210529213314.png]]
+
+
+`Get-NetGroupMember "Domain Admins"`
+
+![[Pasted image 20210529215827.png]]
+
+`Get-NetGroup`
+
+![[Pasted image 20210529220504.png]]
+ 
+ `Get-DomainComputer | select cn, dnshostname`
+ 
+ `Invoke-ShareFinder`
+ 
+ ![[Pasted image 20210529221344.png]]
+ 
+ ![[Pasted image 20210529221932.png]]
+ 
+ `Get-NetComputer -Properties samaccountname`
+ 
