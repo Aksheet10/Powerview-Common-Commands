@@ -59,8 +59,6 @@
  
  ![Pasted image 20210529221344](https://user-images.githubusercontent.com/71016915/120078828-ed2edf00-c0ce-11eb-8a95-5642a33a9a54.png)
  
- ![Pasted image 20210529221932](https://user-images.githubusercontent.com/71016915/120078834-ef913900-c0ce-11eb-8070-fe3232a3e91e.png)
-
+  `Get-NetComputer -Properties samaccountname`
   
- `Get-NetComputer -Properties samaccountname`
- 
+ ![Pasted image 20210529221932](https://user-images.githubusercontent.com/71016915/120078834-ef913900-c0ce-11eb-8070-fe3232a3e91e.png)
