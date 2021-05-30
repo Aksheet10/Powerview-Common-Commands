@@ -1,6 +1,13 @@
 # PowerView
 
 ---
+
+https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerView/powerview.ps1
+
+Save this in a notepad as `PowerView.ps1`
+
+---
+
 Open Command Promt as administrator
 
 `powershell -ep bypass`
