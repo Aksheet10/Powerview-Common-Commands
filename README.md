@@ -1,6 +1,7 @@
 # PowerView
 
 ---
+Open Command Promt as administrator
 
 `powershell -ep bypass`
 
