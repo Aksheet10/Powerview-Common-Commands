@@ -24,9 +24,10 @@ Open Command Promt as administrator
 ![Pasted image 20210529194115](https://user-images.githubusercontent.com/71016915/120078721-801b4980-c0ce-11eb-80b5-4e71a717bc0b.png)
 
 
+`Get-DomainPolicy`
+
 ![Pasted image 20210529194318](https://user-images.githubusercontent.com/71016915/120078729-84dffd80-c0ce-11eb-90f1-376086a97f4b.png)
 
-`Get-DomainPolicy`
 
 `Get-NetUser` / `Get-DomainUser`
 
@@ -56,6 +57,8 @@ Open Command Promt as administrator
 
 
 `Get-NetGroup` - Get all the groups
+
+`Get-NetGroup "Domain Admins"` - Gets specific group
 
 ![image](https://user-images.githubusercontent.com/71016915/120105515-db087b80-c176-11eb-8fbf-8e6aba0ecac5.png)
 
