@@ -58,6 +58,9 @@ Open Command Promt as administrator
 
 `Get-NetGroup` - Get all the groups
 
+![image](https://user-images.githubusercontent.com/71016915/120105515-db087b80-c176-11eb-8fbf-8e6aba0ecac5.png)
+
+
 ![Pasted image 20210529220504](https://user-images.githubusercontent.com/71016915/120078823-e86a2b00-c0ce-11eb-844b-b8f77dc6899c.png)
 
  
