@@ -34,7 +34,7 @@ Open Command Promt as administrator
 ![Pasted image 20210529194934](https://user-images.githubusercontent.com/71016915/120078738-8c9fa200-c0ce-11eb-88ef-fe929b2c3118.png)
 
 
-`Get-DomainUser  -Properties description,cn` is same as `Get-NetUser | select cn, description`
+`Get-DomainUser  -Properties cn,description` is same as `Get-NetUser | select cn, description`
 
 ![Pasted image 20210529200230](https://user-images.githubusercontent.com/71016915/120078753-a4772600-c0ce-11eb-9950-9a8dec644ecb.png)
 
