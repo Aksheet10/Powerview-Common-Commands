@@ -56,7 +56,7 @@ Open Command Promt as administrator
 ![Pasted image 20210529215827](https://user-images.githubusercontent.com/71016915/120078819-de482c80-c0ce-11eb-8b76-00567dfa3005.png)
 
 
-`Get-NetGroup`
+`Get-NetGroup` - Get all the groups
 
 ![Pasted image 20210529220504](https://user-images.githubusercontent.com/71016915/120078823-e86a2b00-c0ce-11eb-844b-b8f77dc6899c.png)
 
