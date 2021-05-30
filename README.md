@@ -63,3 +63,9 @@ Open Command Promt as administrator
   `Get-NetComputer -Properties samaccountname`
   
  ![Pasted image 20210529221932](https://user-images.githubusercontent.com/71016915/120078834-ef913900-c0ce-11eb-8070-fe3232a3e91e.png)
+ 
+ `Get-NetGPO -Properties displayname,whenchanged`
+ 
+ ![image](https://user-images.githubusercontent.com/71016915/120091377-3d865b00-c128-11eb-8765-238bccf07bd5.png)
+ 
+ 
