@@ -66,9 +66,10 @@ Open Command Promt as administrator
 
 ---
 
-`Get-NetGroup` - Get all the groups
+`Get-NetGroup` or `Get-DomainGroup` - Get all the groups
+`Get-NetGroup "Domain Admins"` or `Get-DomainGroup "Domain Admins"` - Gets specific group
+![image](https://user-images.githubusercontent.com/71016915/120274821-06ea4500-c2ce-11eb-8e33-cdde3d475887.png)
 
-`Get-NetGroup "Domain Admins"` - Gets specific group
 
 ![image](https://user-images.githubusercontent.com/71016915/120105515-db087b80-c176-11eb-8fbf-8e6aba0ecac5.png)
 
