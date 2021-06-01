@@ -2,6 +2,10 @@
 
 ---
 
+Original Publish - https://aksheet10.medium.com/powerview-common-commands-a457b475c881
+
+---
+
 https://github.com/PowerShellEmpire/PowerTools/blob/master/PowerView/powerview.ps1
 
 Save this in a notepad as `PowerView.ps1`
