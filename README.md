@@ -45,6 +45,7 @@ Open Command Promt as administrator
 
 
 `Get-NetUser "name"` is same as `Get-DomainUser "name"`
+
 ![image](https://user-images.githubusercontent.com/71016915/120272805-44999e80-c2cb-11eb-86dd-f45076e0b8e6.png)
 
 ![Pasted image 20210529213314](https://user-images.githubusercontent.com/71016915/120078762-ae008e00-c0ce-11eb-8da0-549b65fcde39.png)
