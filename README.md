@@ -95,8 +95,11 @@ Open Command Promt as administrator
 
   ---
   
- `Get-NetGPO -Properties displayname,whenchanged`
+`Get-NetGPO -Properties displayname,whenchanged` same as `Get-DomainGPO -Properties displayname, whenchanged`
  
- ![image](https://user-images.githubusercontent.com/71016915/120091377-3d865b00-c128-11eb-8765-238bccf07bd5.png)
+ ![image](https://user-images.githubusercontent.com/71016915/120091377-3d865b00-c128-11eb-8765-238bccf07bd5.png)\
+ 
+ ![image](https://user-images.githubusercontent.com/71016915/120274659-c8ed2100-c2cd-11eb-92a2-efc3061d55a8.png)
+
  
  
