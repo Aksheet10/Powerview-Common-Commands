@@ -71,18 +71,20 @@ Open Command Promt as administrator
 
 ![Pasted image 20210529220504](https://user-images.githubusercontent.com/71016915/120078823-e86a2b00-c0ce-11eb-844b-b8f77dc6899c.png)
 
+ ---
  
- `Invoke-ShareFinder`
+ `Invoke-ShareFinder` - Shows all the shares
  
  ![Pasted image 20210529221344](https://user-images.githubusercontent.com/71016915/120078828-ed2edf00-c0ce-11eb-8a95-5642a33a9a54.png)
+ 
+ ---
  
   `Get-NetComputer -Properties samaccountname` same as `Get-DomainComputer -Properties samaccountname`
   
   ![image](https://user-images.githubusercontent.com/71016915/120273599-592a6680-c2cc-11eb-83d0-872548fa0205.png)
 
+  ---
   
- ![Pasted image 20210529221932](https://user-images.githubusercontent.com/71016915/120078834-ef913900-c0ce-11eb-8070-fe3232a3e91e.png)
- 
  `Get-NetGPO -Properties displayname,whenchanged`
  
  ![image](https://user-images.githubusercontent.com/71016915/120091377-3d865b00-c128-11eb-8765-238bccf07bd5.png)
