@@ -14,7 +14,10 @@ Open Command Promt as administrator
 
 `. .\PowerView.ps1`
 
-`Get-NetDomain` - Information about the domain
+`Get-NetDomain` or `Get-Domain` - Information about the domain
+
+![image](https://user-images.githubusercontent.com/71016915/120274929-2da87b80-c2ce-11eb-9df0-93f420b54808.png)
+
 
 ![Pasted image 20210529193905](https://user-images.githubusercontent.com/71016915/120078710-74c81e00-c0ce-11eb-8e99-77bccf25cced.png)
 
@@ -46,11 +49,6 @@ Open Command Promt as administrator
 
 ---
 
-`Get-NetComputer`
-
-![image](https://user-images.githubusercontent.com/71016915/120272915-6d219880-c2cb-11eb-97d7-45cd47b4d56c.png)
-
----
 
 `Get-NetUser "name"` is same as `Get-DomainUser "name"`
 
