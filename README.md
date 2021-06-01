@@ -18,16 +18,19 @@ Open Command Promt as administrator
 
 ![Pasted image 20210529193905](https://user-images.githubusercontent.com/71016915/120078710-74c81e00-c0ce-11eb-8e99-77bccf25cced.png)
 
+---
 
 `Get-NetDomainControllers` - Get all the domains
 
 ![Pasted image 20210529194115](https://user-images.githubusercontent.com/71016915/120078721-801b4980-c0ce-11eb-80b5-4e71a717bc0b.png)
 
+---
 
 `Get-DomainPolicy`
 
 ![Pasted image 20210529194318](https://user-images.githubusercontent.com/71016915/120078729-84dffd80-c0ce-11eb-90f1-376086a97f4b.png)
 
+---
 
 `Get-NetUser` / `Get-DomainUser` - Both are similar
 
@@ -35,16 +38,19 @@ Open Command Promt as administrator
 
 ![Pasted image 20210529194934](https://user-images.githubusercontent.com/71016915/120078738-8c9fa200-c0ce-11eb-88ef-fe929b2c3118.png)
 
+---
 
 `Get-DomainUser  -Properties cn,description` is same as `Get-NetUser | select cn, description`
 
 ![Pasted image 20210529200230](https://user-images.githubusercontent.com/71016915/120078753-a4772600-c0ce-11eb-9950-9a8dec644ecb.png)
 
+---
 
 `Get-NetComputer`
 
 ![image](https://user-images.githubusercontent.com/71016915/120272915-6d219880-c2cb-11eb-97d7-45cd47b4d56c.png)
 
+---
 
 `Get-NetUser "name"` is same as `Get-DomainUser "name"`
 
@@ -52,17 +58,21 @@ Open Command Promt as administrator
 
 ![Pasted image 20210529213314](https://user-images.githubusercontent.com/71016915/120078762-ae008e00-c0ce-11eb-8da0-549b65fcde39.png)
 
+---
 
 `Get-NetGroupMember "Domain Admins"`
 
 ![Pasted image 20210529215827](https://user-images.githubusercontent.com/71016915/120078819-de482c80-c0ce-11eb-8b76-00567dfa3005.png)
 
+---
 
 `Get-NetGroup` - Get all the groups
 
 `Get-NetGroup "Domain Admins"` - Gets specific group
 
 ![image](https://user-images.githubusercontent.com/71016915/120105515-db087b80-c176-11eb-8fbf-8e6aba0ecac5.png)
+
+---
 
  `Get-DomainComputer | select cn, dnshostname` also same as `Get-NetComputer | select cn, dnshostname`
  
