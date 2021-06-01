@@ -41,6 +41,9 @@ Open Command Promt as administrator
 
 `Get-NetComputer`
 
+![image](https://user-images.githubusercontent.com/71016915/120272915-6d219880-c2cb-11eb-97d7-45cd47b4d56c.png)
+
+
 ![Pasted image 20210529211029](https://user-images.githubusercontent.com/71016915/120078759-a9d47080-c0ce-11eb-96ec-cb62f5c804d6.png)
 
 
