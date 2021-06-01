@@ -44,7 +44,6 @@ Open Command Promt as administrator
 ![image](https://user-images.githubusercontent.com/71016915/120272915-6d219880-c2cb-11eb-97d7-45cd47b4d56c.png)
 
 
-
 `Get-NetUser "name"` is same as `Get-DomainUser "name"`
 
 ![image](https://user-images.githubusercontent.com/71016915/120272805-44999e80-c2cb-11eb-86dd-f45076e0b8e6.png)
@@ -63,7 +62,10 @@ Open Command Promt as administrator
 
 ![image](https://user-images.githubusercontent.com/71016915/120105515-db087b80-c176-11eb-8fbf-8e6aba0ecac5.png)
 
- `Get-DomainComputer | select cn, dnshostname`
+ `Get-DomainComputer | select cn, dnshostname` also same as `Get-NetComputer | select cn, dnshostname`
+ 
+ ![image](https://user-images.githubusercontent.com/71016915/120272915-6d219880-c2cb-11eb-97d7-45cd47b4d56c.png)
+
 
 ![Pasted image 20210529220504](https://user-images.githubusercontent.com/71016915/120078823-e86a2b00-c0ce-11eb-844b-b8f77dc6899c.png)
 
