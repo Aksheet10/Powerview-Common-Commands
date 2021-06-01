@@ -31,6 +31,8 @@ Open Command Promt as administrator
 
 `Get-NetUser` / `Get-DomainUser` - Both are similar
 
+![image](https://user-images.githubusercontent.com/71016915/120273307-f2a54880-c2cb-11eb-8300-f67722c9117b.png)
+
 ![Pasted image 20210529194934](https://user-images.githubusercontent.com/71016915/120078738-8c9fa200-c0ce-11eb-88ef-fe929b2c3118.png)
 
 
