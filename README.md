@@ -2,7 +2,7 @@
 
 ---
 
-Original Publish - https://aksheet10.medium.com/powerview-common-commands-a457b475c881
+Original Publish - https://aksheet10.medium.com/powerview-common-commands-60f9a9ad6a80
 
 ---
 
