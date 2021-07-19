@@ -33,6 +33,22 @@ Open Command Promt as administrator
 
 ---
 
+```powershell
+PS C:\Users\fcastle\Documents> Get-Domain
+
+
+Forest                  : MARVEL.local
+DomainControllers       : {HYDRA-DC.MARVEL.local}
+Children                : {}
+DomainMode              : Unknown
+DomainModeLevel         : 7
+Parent                  :
+PdcRoleOwner            : HYDRA-DC.MARVEL.local
+RidRoleOwner            : HYDRA-DC.MARVEL.local
+InfrastructureRoleOwner : HYDRA-DC.MARVEL.local
+Name                    : MARVEL.local
+```
+
 `Get-DomainPolicy`
 
 ![Pasted image 20210529194318](https://user-images.githubusercontent.com/71016915/120078729-84dffd80-c0ce-11eb-90f1-376086a97f4b.png)
